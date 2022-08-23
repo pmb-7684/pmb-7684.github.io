@@ -1,4 +1,4 @@
-title: "Another Blog on Data Scientist vs. Statistician"
+title: "My First Blog Journey"
 author: "Paula Bailey"
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
@@ -20,7 +20,7 @@ linkedin_username: "paulabailey21"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
