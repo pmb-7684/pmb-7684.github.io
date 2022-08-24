@@ -1,3 +1,5 @@
+My First Blog Post
+
 ## Another Blog on Data Scientist vs. Statistician
 
 There are countless articles on this topic, so it’s time for me to add my thoughts to the conversation.  A Data Scientist is just an extension of a Statistician and Operational Research Analyst.  The latter two titles are positions that have been around for decades.  The data science position has evolved due to technology – faster computers, cheaper, more efficient data warehousing, and IOT (the internet of things).  Society, in general is more willing to give up their data and organizations can store larger amounts of it.  Therefore, the position of data scientist is in high demand.  The main function of a Data Scientist is to use our data to help senior leadership make decisions on the next steps for an organization.
