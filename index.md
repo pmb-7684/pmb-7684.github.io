@@ -1,6 +1,12 @@
 
-Hello World!! My name is Paula Bailey
+Hello World!! 
 
-Go to your github repo corresponding to your blog.  Update the 'index.md' file with relevant information about you, what you are going to blog about, etc. that uses markdown syntax (lists, images, etc.).  Include a photo (not necessarily of you), email, and other relevant things.  
+The main process of this blog is to notate my journey to finding a new career in this data driven world.   As crazy as it seems this is my third career change.  I've spent years in middle managment in customer service and later years as an actuarial analyst. Mainly, this will be a way to provide tips and tools I've learned along the way.
 
+Beside this journey, I may post about my hobbies - cooking and the many projects around my home :house_with_garden:
+
+Have a great day!!!
+
+
+*Charlotte Skyline*
 ![Charlotte Skyline](image/XCharlotte-Skyline.jpg)
