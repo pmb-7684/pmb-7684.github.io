@@ -1,1 +1,41 @@
 
+Today, our first group project is due.  The project was to create a vignette about contacting an API using functions we’ve created to query, parse, and return well-structured data.
+For my portion of the project 2, I completed the following: 
+
+1.	The rmarkdowdn::render file and added theme to blog.
+Using the instructions and concept similar to one of the homework assignments, I created a R file that contained rmarkdown::render("Project2.Rmd", "github_document","README.md")
+When you run the code, it knits and places the markdown information in the README.md file. 
+
+2.	 Function get_berry() to get the berry information. 
+The berry function was created using information from this  [link.]( How to Access Any RESTful API Using the R Language | ProgrammableWeb) from the lecture.  It loops through the api until we receive information on all 64 berries.
+
+3.	Function get_moves() to get basic moves.
+As I will mention later, this api has overlapping endpoints (and okay documentation) which makes it difficult to understand what is begin pulled and how it related to basic Pokémon information.  I decided to use just the basic move endpoint because it accessed all 826 Pokémon.
+
+4.	Functions to call type and encounter, which we decided not to use. 
+5.	Function get_pokemon() to get the individual Pokémon info requested by user.
+Using the process from the lecture I pulled the unstructured data from the api and saved it into a variable.  using [[ ]] I parsed off the items needed and placed everything into a tibble that was retuned by the function.
+
+6.	Scatter plot for berries.
+The most interesting finding was as a berry grows, the soil becomes drier.  It was interesting because it was one of the few items that had a relationship and created an okay plot.
+
+7.	Scatter plot for BMI vs Speed.
+We needed to create a new variable with the data, so I decided we should use BMI (wt/ht) to see if there was a relationship with speed. There was no relationship.  The Pokémon with the largest BMI is not the slowest.
+
+8.	Numeric summary for berries.
+I removed a few of the variables, because it did not make sense to run a summary on them. Afterwards, I used summary(). For the remaining variables, there was very little variation between the mean and median. Those values were not equal, so you can expect for the shape to be skewed slightly.  The exceptions were size and soil dryness, the difference was relatively large, so I would expect for those plots to be right skewed. 
+
+9.	Bar plot with Flavor segmented by firmness, we decided not to use.
+The berry data frame made some great looking plots; however, the plots either didn’t make any sense or even when segmented they produced the same image.  It seemed even though the data was different, it had the same distribution.  That was interesting.
+
+10. Besides the plots above, added interpretation to bar plot (habitat and color) and numeric summary for pokemon stats.
+
+11	Bar plot with berry segmented by color, we decided not to use.
+12	Histogram for berries, we decided not to use.
+13	Histogram for weight of pokemon, we decided not to use.
+14	Correlation growth and soil dryness, we decided not to use..
+The most difficult part of this project was getting the endpoints from the poke api which seem to overlap.  Also, some endpoints have 1 item and other have 200 items. So, the plan was to pull all endpoints and combine them into a data.  That did not work for me.  I think I spend days trying to find a way –  filling rows with 0s or NAs to create a data frame.  In the end, I settled for being less ambitious with the project. 
+Approaching a similar project in the future, if it’s a project for class and I have options – I would choose a different API.  I chose poke api for our team. Otherwise, for a personal project or work, it’s important to understand how the information is being returned from the API.  It’s not cookie cutter.  As mentioned above, I thought we would have smooth sailing pulling the api information and converting it to a data frame.  However, if the rows and/or columns are not the same, you will encounter an error.  I would also try not to make the process so complicated.  I think I was overthinking it.  Now that I can look back, the project does seem to be as bad. It was challenging, but I learned a lot.   I plan to create a separate project with the portion I completed and try to pull additional information from that api.  Later, try to pull from NASA api.
+
+Our Pokémon [Vignette ]( ST 558 - Project 2 | ST558_Project_2 (pmb-7684.github.io))
+
