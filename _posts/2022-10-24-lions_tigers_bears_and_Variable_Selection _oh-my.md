@@ -1,4 +1,4 @@
-## **lions, tigers, bears, and Variable Selection - oh my!**
+### **lions, tigers, bears, and Variable Selection - oh my!**
 ### Yes, Yes, the dreaded subject of variable selection for regression modeling.
 
 
