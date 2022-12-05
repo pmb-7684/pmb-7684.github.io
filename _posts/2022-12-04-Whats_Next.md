@@ -20,7 +20,7 @@ sample *(group not tested before)* from the group?  *(I saw simulations on a pos
 Finally, I plan to continue working on my MS in statistics and look for alternatives for my next career path as a business analyst, data engineer, etc. 
 Honestly, I am not confident that most employers are looking for stats or even math majors – even if you have a masters or PhD to fill roles in the data science
 industry.  When you look at many of those openings, it’s focused on hardcore computer programmers – python, pySpark, Hadoop, experience with big data 
-*(now I’ve seen a local postings for a data analyst asking for experience with millions of gigabytes)*, etc.  
+*(now I’ve seen a local postings for a data analyst asking for experience with millions of gigabytes)*, SQL, etc.  
 
 Hmm…this entry sounds kind of sad.  It’s not. Life would be boring if you didn’t have change and learn to adapt.
 
