@@ -15,12 +15,12 @@ etc.  Statistician don’t use many (if any) of the algorithms commonly used in 
 into data science. I understand the testing concept. There are millions of observations.  Are we sampling to determine if there is evidence to support or not? 
 Same concept on a larger scale? When it comes to sampling “big data” at what point is your sample too large?   Another concept that seems foreign to data science
 is simulations.  If you have access to millions of observations, why do you need to simulate any data?    Why couldn’t you just run the algorithm on another 
-sample *(group not tested before)* from the group?  *(I saw simulations on posting for position over the summer)*
+sample *(group not tested before)* from the group?  *(I saw simulations on a posting for position over the summer)*
 
 Finally, I plan to continue working on my MS in statistics and look for alternatives for my next career path as a business analyst, data engineer, etc. 
 Honestly, I am not confident that most employers are looking for stats or even math majors – even if you have a masters or PhD to fill roles in the data science
 industry.  When you look at many of those openings, it’s focused on hardcore computer programmers – python, pyspark, Hadoop, experience with big data 
-*(now a I’ve seen postings asking for experience with millions of gigabytes)*, etc.  
+*(now I’ve seen a local postings for a data analyst asking for experience with millions of gigabytes)*, etc.  
 
 Hmm…this entry sounds kind of sad.  It’s not. Life would be boring if you didn’t have change and or learn to adapt.
 
