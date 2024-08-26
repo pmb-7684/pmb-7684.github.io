@@ -1,10 +1,14 @@
 
 Hello World !!
 
-The main purpose of this blog is to document my journey to finding a new career in this data driven world.   As crazy as it seems this is my third career change.  I've spent years in middle management in customer service and later years as an actuarial analyst. This will be a way to provide tips and tools I've learned along the way. 
+The main purpose of this blog is to document my journey to finding a new career in this data driven world.   As crazy as it seems this is my third career change.  I've spent years in middle management in customer service and later years as an actuarial analyst at an insurance company. This webpage will be a way to provide tips and tools I've learned along the way and to document by projects. 
 
-I started this webpage several years ago while attending another university.  So, rather than starting from scratch, I plan to update this page. 
+I started this webpage several years ago while attending another university.  So, rather than starting from scratch and loosing projects I worked on in the past, I plan to refresh the page and
+built it into a skill driven portfolio.
+
+Currently, I am a senior majoring in Data Science at the University of North Carolina at Charlotte. I am excited to say that I will be graduating in May 2025.  When I'm not working and attending college full-time, I am the secreaty for Phi Sigma Pi Honor Fraternity - Eta Xi Chapter. I also enjoy spending time with family who have been on this journey with me.
 
 
-*I don't like cold weather, but I enjoy winter scenery*
+*I don't like cold weather, but I enjoy this winter scenery and the journey the scene depicts*
+*For me, life is a journey.  You have to keep moving and don't look back."*
 ![](image/Bing.jpg)
