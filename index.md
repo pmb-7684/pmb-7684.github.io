@@ -8,7 +8,7 @@ built it into a skill driven portfolio.
 
 About Me:
 
-Currently, I am a senior majoring in Data Science at the University of North Carolina at Charlotte. I am excited to say that I will be graduating in May 2025.  When I'm not working and attending college full-time, I am the secreaty for the Eta Xi Chapter of Phi Sigma Pi National Honor Fraternity. 
+Currently, I am a senior majoring in Data Science at the University of North Carolina at Charlotte. I am excited to say that I will be graduating in May 2025.  When I'm not working and attending college full-time, I am the secretary for the Eta Xi Chapter of Phi Sigma Pi National Honor Fraternity. 
 
 I don't like cold weather, but I like this winter scene and the journey it depicts to me.
 Life is a journey.  You have to keep moving forward and don't look back.
